@@ -23,8 +23,6 @@
 
 [React16和Antd如何在IE9环境下忍辱偷生](https://blog.csdn.net/Napoleonxxx/article/details/80426678)
 
-[React v15到v16.3, v16.4新生命周期总结以及使用场景](https://blog.csdn.net/Napoleonxxx/article/details/81120854)
-
 [从对Redux的使用看Angular2和React的设计差异](https://blog.csdn.net/Napoleonxxx/article/details/79327518)
 
 [Redux 异步数据流-- thunk中间件源码解析](https://blog.csdn.net/Napoleonxxx/article/details/79325953)
