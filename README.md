@@ -7,6 +7,8 @@
 
 ## 机器学习
 
+[Udacity课程脉络-统计学基础（四）-F分布](https://blog.csdn.net/Napoleonxxx/article/details/82748502)
+
 [Udacity课程脉络-统计学基础（三）- t分布](https://blog.csdn.net/Napoleonxxx/article/details/82391573)
 
 [Udacity课程脉络-统计学基础（二）- t分布](https://blog.csdn.net/Napoleonxxx/article/details/82012004)
