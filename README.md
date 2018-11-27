@@ -7,6 +7,8 @@
 
 ## 机器学习
 
+[Udacity课程脉络-统计学基础（七）- 卡方检验](https://blog.csdn.net/Napoleonxxx/article/details/84023366)
+
 [Udacity课程脉络-统计学基础（六）-线性回归 Regression](https://blog.csdn.net/Napoleonxxx/article/details/82893008)
 
 [Udacity课程脉络-统计学基础（五）-相关性 Corelation](https://blog.csdn.net/Napoleonxxx/article/details/82861995)
