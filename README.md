@@ -91,8 +91,12 @@
 
 ## 用户体验
 
-[步步提高网站体验系列之——骨架屏](https://blog.csdn.net/Napoleonxxx/article/details/84870143)
+[玩转Lighthouse—全方位提高网站各项指标的实践](https://blog.csdn.net/Napoleonxxx/article/details/85077418)
+
+[步步提高网站体验系列之——PWA（Notification 消息通知）](https://blog.csdn.net/Napoleonxxx/article/details/85065629)
+
+[步步提高网站体验系列之——PWA（Manifest）](https://blog.csdn.net/Napoleonxxx/article/details/85061011)
 
 [步步提高网站体验系列之——PWA（Service Worker）](https://blog.csdn.net/Napoleonxxx/article/details/84990785)
 
-
+[步步提高网站体验系列之——骨架屏](https://blog.csdn.net/Napoleonxxx/article/details/84870143)
