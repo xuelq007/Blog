@@ -7,6 +7,8 @@
 
 ## 机器学习
 
+[优达学城机器学习之--朴素贝叶斯](https://blog.csdn.net/Napoleonxxx/article/details/84949757)
+
 [Udacity课程脉络-统计学基础（七）- 卡方检验](https://blog.csdn.net/Napoleonxxx/article/details/84023366)
 
 [Udacity课程脉络-统计学基础（六）-线性回归 Regression](https://blog.csdn.net/Napoleonxxx/article/details/82893008)
