@@ -7,6 +7,8 @@
 
 ## 机器学习
 
+[优达学城机器学习之--支持向量机(SVM)](https://blog.csdn.net/Napoleonxxx/article/details/85985239)
+
 [优达学城机器学习之--朴素贝叶斯](https://blog.csdn.net/Napoleonxxx/article/details/84949757)
 
 [Udacity课程脉络-统计学基础（七）- 卡方检验](https://blog.csdn.net/Napoleonxxx/article/details/84023366)
@@ -24,6 +26,10 @@
 [Udacity课程脉络-统计学基础（一）](https://blog.csdn.net/Napoleonxxx/article/details/81667883)
 
 ## 前端框架
+
+[React 16.7 Fiber源码解读 （二）之运行流程](https://blog.csdn.net/Napoleonxxx/article/details/86706088)
+
+[React 16.7 Fiber源码解读 （一）之数据结构](https://blog.csdn.net/Napoleonxxx/article/details/86568941)
 
 [再论React与Angular-从数据绑定谈起](https://blog.csdn.net/Napoleonxxx/article/details/81352433)
 
