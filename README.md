@@ -7,6 +7,8 @@
 
 ## 机器学习
 
+[优达学城机器学习之--决策树(Decision Trees)](https://blog.csdn.net/Napoleonxxx/article/details/87341299)
+
 [优达学城机器学习之--支持向量机(SVM)](https://blog.csdn.net/Napoleonxxx/article/details/85985239)
 
 [优达学城机器学习之--朴素贝叶斯](https://blog.csdn.net/Napoleonxxx/article/details/84949757)
@@ -26,6 +28,8 @@
 [Udacity课程脉络-统计学基础（一）](https://blog.csdn.net/Napoleonxxx/article/details/81667883)
 
 ## 前端框架
+
+[从vue-cli 2.x 到 vue-cli 3.0 体验](https://blog.csdn.net/Napoleonxxx/article/details/87923079)
 
 [React 16.7 Fiber源码解读 （二）之运行流程](https://blog.csdn.net/Napoleonxxx/article/details/86706088)
 
