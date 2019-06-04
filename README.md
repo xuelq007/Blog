@@ -7,6 +7,8 @@
 
 ## 机器学习
 
+[优达学城机器学习之--聚类(Cluster)](https://blog.csdn.net/Napoleonxxx/article/details/88786068)
+
 [优达学城机器学习之--决策树(Decision Trees)](https://blog.csdn.net/Napoleonxxx/article/details/87341299)
 
 [优达学城机器学习之--支持向量机(SVM)](https://blog.csdn.net/Napoleonxxx/article/details/85985239)
@@ -27,7 +29,21 @@
 
 [Udacity课程脉络-统计学基础（一）](https://blog.csdn.net/Napoleonxxx/article/details/81667883)
 
+## 组件
+
+[从Antd 源码到自我实现之 Form表单](https://blog.csdn.net/Napoleonxxx/article/details/89363183)
+
+[从Antd 源码到自我实现之 Grid 栅格系统](https://blog.csdn.net/Napoleonxxx/article/details/89425234)
+
+[React 实现 Modal 思路简述](https://blog.csdn.net/Napoleonxxx/article/details/89486265)
+
+[从Antd 源码到自我实现之 Menu 导航菜单](https://blog.csdn.net/Napoleonxxx/article/details/90199670)
+
 ## 前端框架
+
+[AWorkflow : 一个用于快速构建各种关系图的库](https://blog.csdn.net/Napoleonxxx/article/details/88648055)
+
+[从系统报错角度看 React 组件的的受控与非受控](https://blog.csdn.net/Napoleonxxx/article/details/89202790)
 
 [从vue-cli 2.x 到 vue-cli 3.0 体验](https://blog.csdn.net/Napoleonxxx/article/details/87923079)
 
@@ -73,6 +89,10 @@
 
 ## Javascript
 
+[Promise的真正意义--不只为回调地狱](https://blog.csdn.net/Napoleonxxx/article/details/90707243)
+
+[HTML Attributes 与 DOM Properties](https://blog.csdn.net/Napoleonxxx/article/details/89010904)
+
 [ES7之async/await 同步还是异步](https://blog.csdn.net/Napoleonxxx/article/details/79360501)
 
 [从RxJs到函数式编程, 观察者模式，迭代器模式](https://blog.csdn.net/Napoleonxxx/article/details/79331144)
@@ -112,3 +132,10 @@
 [步步提高网站体验系列之——PWA（Service Worker）](https://blog.csdn.net/Napoleonxxx/article/details/84990785)
 
 [步步提高网站体验系列之——骨架屏](https://blog.csdn.net/Napoleonxxx/article/details/84870143)
+
+## 翻译
+
+[你其实不必为React表单受控还是非受控而纠结](https://blog.csdn.net/Napoleonxxx/article/details/89134042)
+
+[TDD和BDD的区别 (TDD vs BDD)](https://blog.csdn.net/Napoleonxxx/article/details/88808475)
+
